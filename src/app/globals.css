@@ -30,4 +30,24 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+  @keyframes blurDown {
+    0% {
+      opacity: 0;
+      filter: blur(6px);
+      transform: translateY(-20px) translateZ(0px);
+    }
+    100% {
+      opacity: 1;
+      filter: blur(0px);
+      transform: translateY(0) translateZ(0px);
+    }
+  }
+  
+  .animate-blur-down {
+    animation: blurDown 1s ease-out forwards;
+  }
+  
+  
+  
+  
 }
