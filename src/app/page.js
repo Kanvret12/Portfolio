@@ -109,11 +109,12 @@ export default function Home() {
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>MongoDB</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Express</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Next.js</div>
+            <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>EJS</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Html</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Css</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>GPT Prompt</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Tailwind</div>
-            <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Excell</div>
+            <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Excel</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Debian</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Ubuntu</div>
             <div className='inline-flex items-center rounded-md border px-2.5 py-1 text-xs font-semibold bg-white text-black hover:bg-neutral-300'>Cisco</div>
