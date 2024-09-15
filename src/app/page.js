@@ -131,7 +131,7 @@ export default function Home() {
               <div className='relative flex shrink-0 overflow-hidden border h-40 w-full m-auto bg-muted-background'>
                 <Image src={MataSiber} alt="Profile Picture" layout="fill" objectFit="cover" className="h-40 w-full overflow-hidden object-cover object-top"/>
                 <a href="https://matasiber.id" target="_blank" rel="noopener noreferrer" className="absolute bottom-4 left-4 flex items-center rounded-md border px-2.5 py-1 text-xs bg-white bg-opacity-30 text-white border-white backdrop-blur-sm">
-                  Views
+                  Visit
                 </a>
 
               </div>
@@ -139,9 +139,9 @@ export default function Home() {
             <div className="rounded-lg bg-card text-card-foreground flex flex-col overflow-hidden border-neutral-400 hover:shadow-lg transition-all duration-300 ease-out h-full">
               <div className='relative flex shrink-0 overflow-hidden border h-40 w-full m-auto bg-muted-background'>
                 <Image src={SimanBumbu} alt="Profile Picture" layout="fill" objectFit="cover" className="h-40 w-full overflow-hidden object-cover object-top"/>
-                <button className="absolute bottom-4 left-4 items-center rounded-md border px-2.5 py-1 text-xs bg-white bg-opacity-30 text-white border-white backdrop-blur-sm">
-                Cooming Soon
-                </button>
+                <a href="https://simanbumbu.shop" target="_blank" rel="noopener noreferrer" className="absolute bottom-4 left-4 flex items-center rounded-md border px-2.5 py-1 text-xs bg-white bg-opacity-30 text-white border-white backdrop-blur-sm">
+                  Visit
+                </a>
               </div>
             </div>
             <div className="rounded-lg bg-card text-card-foreground flex flex-col overflow-hidden border-neutral-400 hover:shadow-lg transition-all duration-300 ease-out h-full">
