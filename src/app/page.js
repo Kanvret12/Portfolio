@@ -81,7 +81,7 @@ export default function Home() {
                 </div>
                 <div className='flex flex-col pl-3'>
                     <span className='text-sm'>
-                    Smk cybermedia
+                    Cybermedia
                     </span>
                     <span className='text-xs text-neutral-400'>
                       Teknik Komputer dan Jaringan
