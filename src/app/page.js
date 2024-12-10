@@ -3,6 +3,7 @@ import Image from 'next/image';
 import { useEffect } from 'react';
 import profilePic from '../../public/img/mee.jpeg';
 import Cyber from '../../public/img/cybermedia.jpg';
+import Trilogi from 'https://trilogi.ac.id/universitas/wp-content/uploads/2021/06/Logo-Trilogi.png';
 import MataSiber from '../../public/img/matasiber.png';
 import ServiceAce from '../../public/img/serviceace.png';
 import SimanBumbu from '../../public/img/simanbumbu.png';
@@ -72,7 +73,7 @@ export default function Home() {
               <div className='flex'>
                 <div className='relative flex shrink-0 overflow-hidden rounded-full border size-12 m-auto bg-muted-background'>
                 <Image
-                  src={Cyber}
+                  src={Trilogi}
                   alt="Profile Picture"
                   layout="fill"
                   objectFit="cover"
