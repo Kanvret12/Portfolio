@@ -68,7 +68,7 @@ export default function Home() {
               Education
             </span>
           </div>
-          <div className="flex justify-between pb-24">
+          <div className="flex justify-between pb-5">
             <div>
               <div className='flex'>
                 <div className='relative flex shrink-0 overflow-hidden rounded-full border size-12 m-auto bg-muted-background'>
