@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { useEffect } from 'react';
 import profilePic from '../../public/img/mee.jpeg';
 import Cyber from '../../public/img/cybermedia.jpg';
-import Trilogi from 'https://trilogi.ac.id/universitas/wp-content/uploads/2021/06/Logo-Trilogi.png';
+import Trilogi from '../../public/img/Logo-Trilogi.png';
 import MataSiber from '../../public/img/matasiber.png';
 import ServiceAce from '../../public/img/serviceace.png';
 import SimanBumbu from '../../public/img/simanbumbu.png';
@@ -74,6 +74,34 @@ export default function Home() {
                 <div className='relative flex shrink-0 overflow-hidden rounded-full border size-12 m-auto bg-muted-background'>
                 <Image
                   src={Trilogi}
+                  alt="Profile Picture"
+                  layout="fill"
+                  objectFit="cover"
+                  className="rounded-full"
+                />
+                </div>
+                <div className='flex flex-col pl-3'>
+                    <span className='text-sm'>
+                    Cybermedia
+                    </span>
+                    <span className='text-xs text-neutral-400'>
+                      Teknik Informatika
+                    </span>
+                </div>
+              </div>
+            </div>
+            <div>
+              <span className='text-xs sm:text-sm tabular-nums text-muted-foreground text-right text-neutral-400'>
+                2024 - Curent
+              </span>
+            </div>
+          </div>
+          <div className="flex justify-between">
+            <div>
+              <div className='flex'>
+                <div className='relative flex shrink-0 overflow-hidden rounded-full border size-12 m-auto bg-muted-background'>
+                <Image
+                  src={Cyber}
                   alt="Profile Picture"
                   layout="fill"
                   objectFit="cover"
