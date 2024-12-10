@@ -3,7 +3,7 @@ import Image from 'next/image';
 import { useEffect } from 'react';
 import profilePic from '../../public/img/mee.jpeg';
 import Cyber from '../../public/img/cybermedia.jpg';
-import Trilogi from '../../public/img/Logo-Trilogi.png';
+import Trilogi from '../../public/img/images.jpeg';
 import MataSiber from '../../public/img/matasiber.png';
 import ServiceAce from '../../public/img/serviceace.png';
 import SimanBumbu from '../../public/img/simanbumbu.png';
